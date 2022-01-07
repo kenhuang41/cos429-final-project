@@ -1,5 +1,7 @@
 ## COS429 Final Project: Predicting the String Played by a Cellist through Edge Detectors, Hough Transforms, and k-Nearest Neighbors
 
+#### Project by Iroha Shirai and Kenny Huang
+
 > Final project for COS429: Computer Vision. We aim to predict the string that a cellist is playing on based on only visual data using feature detection and a k-nearest neighbors model. For more details, see final_report.pdf
 ---
 
