@@ -24,7 +24,9 @@ git clone https://github.com/kenhuang41/cos429-final-project
 
 ## Dataset
 
-The dataset can be found in the folder /cello_pics/ and comprises of 132 images hand-extracted from videos found on Youtube. Credit to the original content can be found in the acknowledgement section of the final report.
+The image dataset can be found in the folder /cello_pics/ and comprises of 132 images hand-extracted from videos found on Youtube. Credit to the original content can be found in the acknowledgement section of the final report.
+
+The string labels table is located in "strings_with_thetas.csv" and contains the training set for the k-nearest neighbors model used in the second phase of the pipeline.
 
 ---
 
